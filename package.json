@@ -1,0 +1,29 @@
+{
+  "name": "weex-css-loader",
+  "version": "1.0.0",
+  "description": "weex style loader module for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhigui/weex-css-loader.git"
+  },
+  "keywords": [
+    "weex",
+    "style",
+    "css",
+    "loader",
+    "webpack"
+  ],
+  "author": "ZhiguiChan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhigui/weex-css-loader/issues"
+  },
+  "homepage": "https://github.com/zhigui/weex-css-loader#readme",
+  "dependencies": {
+    "weex-styler": "^0.1.10"
+  }
+}
