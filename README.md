@@ -1,7 +1,7 @@
 # weex-css-loader
 
 This is a part from [weex-vue-loader](https://github.com/weexteam/weex-vue-loader).
-In weex-loader your can't use other pre-processors. `weex-css-loader ` allows you to use other loaders to process your style.
+In weex-loader your can't config other pre-processors. `weex-css-loader ` allows you to config other loaders to process your style.
 
 ## Install
 
